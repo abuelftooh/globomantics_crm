@@ -6,3 +6,4 @@ made in this module. Note that these files are also used for
 variants of the US dollars display are retained in the code, but commented
 out. This makes it easy to toggle between different styles for version
 control testing.
+> Note: version 2 will e way better
